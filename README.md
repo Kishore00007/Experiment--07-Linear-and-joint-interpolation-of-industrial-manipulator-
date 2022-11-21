@@ -60,7 +60,7 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 ![ouput](robo.jpg)
-![ouput](robo2.jpg)
+![ouput](rbk.jpg)
 
 
 
